@@ -19,8 +19,6 @@
 
 ![WhatsApp Image 2024-11-14 at 16 05 40_bd0785b0](https://github.com/user-attachments/assets/ce45982a-3c11-4158-8399-6c8f62c33ea9)
 
-# 1.Fungsi
-
-# Hitung_nilai_akhir (tugas, uts, uas)
+# 1.Fungsi Hitung_nilai_akhir (tugas, uts, uas)
 
 
