@@ -24,11 +24,25 @@
 Hitung_nilai_akhir (tugas, uts, uas)
 
 ```python
+def hitung_nilai_akhir(tugas, uts, uas):
+    return (tugas * 0.30) + (uts * 0.35) + (uas * 0.35)
+```
+
+# 2. Fungsi
+tampilkan_daftar (daftar_mahasiswa):
+
+```python
 def tampilkan_daftar(daftar_mahasiswa):
     print("=" * 70)  # Membuat garis pembatas
     print("| No |     Nama      |    NIM    | Tugas | UTS | UAS | Akhir |")
     print("=" * 70)  # Membuat garis pembatas
 ```
+
+- Menerima parameter berupa list yang berisi data mahasiswa
+- Membuat tampilan tabel dengan header
+- Menggunakan perulangan untuk menampilkan setiap data mahasiswa
+- Format output menggunakan string formatting untuk merapikan tampilan
+- enumerate(daftar_mahasiswa, 1) digunakan untuk membuat penomoran mulai dari 1
 
 
 
